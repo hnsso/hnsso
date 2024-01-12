@@ -1,4 +1,6 @@
-### Hi there Hi, I am a student who is studying to become a developer 👋
+### Hi, I am a student who is studying to become a developer 👋
+
+### I'll try my best. My heart is pounding ###
 #000000
 
 <!--
