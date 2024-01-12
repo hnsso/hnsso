@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there Hi, I am a student who is studying to become a developer 👋
+#000000
 
 <!--
 **hnsso/hnsso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
